@@ -1,4 +1,12 @@
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-green)
+![Status](https://img.shields.io/badge/Project-Completed-orange)
+
+
+
 📚 Library Management System
+
+
 📌 Project Description
 
 The Library Management System is a software application designed to manage the day-to-day operations of a library efficiently. The system helps librarians maintain records of books, manage users, issue and return books, and keep track of available resources.
